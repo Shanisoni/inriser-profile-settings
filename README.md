@@ -1,6 +1,6 @@
 # Inriser - Profile Settings
 
-A React Native mobile app that loads and updates profile settings from a PostgreSQL database.
+A full-stack profile settings feature built with an **Expo/React Native** mobile app and a **Node.js (Express)** backend backed by **PostgreSQL**. The app fetches a user profile on launch and lets users update their **display name**, **bio**, and **notification preferences**, then persists changes to the database with validation and success/error feedback.
 
 ## Project Structure
 
